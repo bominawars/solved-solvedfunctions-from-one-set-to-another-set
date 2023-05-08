@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedfunctions-from-one-set-to-another-set
+<br>
+Write a program in python to output all functions from one set to another set. For example:A = Set 1: {1, 2} B = Set 2: {5, 6, 7} Functions from set A to set B: There should be 9 functions because |B|^|A| = the number of functions 1. (1à5) (2à5) 2. (1à6) (2à5) 3. (1à7) (2à5) 4. (1à5) (2à6) 5. (1à6) (2à6) 6. (1à7) (2à6) 7. (1à5) (2à7) 8. (1à6) (2à7) 9. (1à7) (2à7)
